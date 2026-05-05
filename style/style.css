@@ -1,19 +1,19 @@
 
 body{
-	
-	background-image: url("https://ia801705.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1972-10-peoples-computer-company/1972-10%20Peoples%20Computer%20Company_jp2.zip&file=1972-10%20Peoples%20Computer%20Company_jp2/1972-10%20Peoples%20Computer%20Company_0000.jp2&id=1972-10-peoples-computer-company&scale=8&rotate=0");
+
+	background-image: url("../import/worldwideweb.png");
 	background-size: 300px;
 	justify-content: space-around;
 	align-content: center;
 }
 
 #conteneur{
-	width: 800px;
+	width: 1000px;
 	margin: auto;
 	margin-top: 150px;
 	background-color: black;
 	align-content: center;
-	padding: 20px;
+	padding: 40px;
 }
 
 h1{
@@ -41,4 +41,47 @@ img{
 	padding-top: 3em;
 	padding-bottom: 3em;
 	align-content: center;
+}
+
+.portrait-section{
+	display: flex;
+	align-items: flex-end;
+	gap: 20px;
+}
+
+.portrait{
+	width: 300px;
+}
+
+.portrait:hover{
+	filter: grayscale(100%);
+}
+
+.portrait-caption{
+	color: darkgrey;
+	margin-bottom: 50px;
+}
+
+.image-wide{
+	display: block;
+	margin: auto;
+	cursor: zoom-in;
+	width: 800px;
+}
+
+.caption-wide{
+	width: 800px;
+	margin: auto;
+}
+
+.stamp{
+	display: block;
+	margin: auto;
+	cursor: pointer;
+	width: 300px;
+}
+
+.caption-stamp{
+	width: 300px;
+	margin: auto;
 }
