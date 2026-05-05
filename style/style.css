@@ -1,0 +1,44 @@
+
+body{
+	
+	background-image: url("https://ia801705.us.archive.org/BookReader/BookReaderImages.php?zip=/31/items/1972-10-peoples-computer-company/1972-10%20Peoples%20Computer%20Company_jp2.zip&file=1972-10%20Peoples%20Computer%20Company_jp2/1972-10%20Peoples%20Computer%20Company_0000.jp2&id=1972-10-peoples-computer-company&scale=8&rotate=0");
+	background-size: 300px;
+	justify-content: space-around;
+	align-content: center;
+}
+
+#conteneur{
+	width: 800px;
+	margin: auto;
+	margin-top: 150px;
+	background-color: black;
+	align-content: center;
+	padding: 20px;
+}
+
+h1{
+	color: ghostwhite;
+	font-size: 3em;
+	text-transform:uppercase ;
+	padding: 1em;
+}
+
+h2{ font-size: 2em;
+	color: ghostwhite;
+}
+
+p{
+	font: courier;
+	color: darkgrey;
+}
+
+a{
+	color: beige;
+	text-align: center;
+}
+
+img{
+	padding-top: 3em;
+	padding-bottom: 3em;
+	align-content: center;
+}
