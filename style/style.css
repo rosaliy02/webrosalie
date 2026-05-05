@@ -1,87 +1,82 @@
 
-body{
-
+body {
 	background-image: url("../import/worldwideweb.png");
 	background-size: 300px;
-	justify-content: space-around;
-	align-content: center;
 }
 
-#conteneur{
+#conteneur {
 	width: 1000px;
 	margin: auto;
 	margin-top: 150px;
 	background-color: black;
-	align-content: center;
 	padding: 40px;
 }
 
-h1{
+h1 {
 	color: ghostwhite;
 	font-size: 3em;
-	text-transform:uppercase ;
+	text-transform: uppercase;
 	padding: 1em;
 }
 
-h2{ font-size: 2em;
+h2 {
+	font-size: 2em;
 	color: ghostwhite;
 }
 
-p{
-	font: courier;
+p {
+	font-family: courier;
 	color: darkgrey;
 }
 
-a{
+a {
 	color: beige;
-	text-align: center;
 }
 
-img{
+img {
 	padding-top: 3em;
 	padding-bottom: 3em;
-	align-content: center;
 }
 
-.portrait-section{
+.portrait-section {
 	display: flex;
 	align-items: flex-end;
 	gap: 20px;
 }
 
-.portrait{
+.portrait {
 	width: 300px;
 }
 
-.portrait:hover{
+.portrait:hover {
 	filter: grayscale(100%);
 }
 
-.portrait-caption{
+.portrait-caption {
 	color: darkgrey;
 	margin-bottom: 50px;
 }
 
-.image-wide{
+.image-wide {
 	display: block;
 	margin: auto;
 	cursor: zoom-in;
 	width: 800px;
 }
 
-.caption-wide{
+.caption-wide {
 	width: 800px;
 	margin: auto;
 }
 
-.stamp{
+.stamp {
 	display: block;
 	margin: auto;
 	cursor: pointer;
 	width: 300px;
 }
 
-.caption-stamp{
+.caption-stamp {
 	width: 300px;
 	margin: auto;
 }
