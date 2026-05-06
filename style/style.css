@@ -11,7 +11,7 @@ body::before {
 	width: 100%;
 	height: 100%;
 	background-image: url("../import/susan.png");
-	background-size: 300px;
+	background-size: 400px;
 	z-index: -1;
 	transition: filter 0.3s ease;
 }
@@ -21,9 +21,9 @@ body.night::before {
 }
 
 #conteneur {
-	width: 1000px;
+	width: 1050px;
 	margin: auto;
-	margin-top: 150px;
+	margin-top: 145px;
 	background-color: rgb(240, 240, 240);
 	padding: 150px;
 	padding-top: 50px;
