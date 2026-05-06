@@ -10,6 +10,7 @@ body {
 	margin-top: 150px;
 	background-color: rgb(240, 240, 240);
 	padding: 150px;
+	padding-top: 50px;
 }
 
 h1 {
@@ -18,6 +19,7 @@ h1 {
 	text-transform: uppercase;
 	padding: 1em;
 	text-align: center;
+	padding-top: 0px;
 }
 
 h2 {
@@ -25,7 +27,7 @@ h2 {
 	color: black;
 	width: 800px;
 	margin: auto;
-	padding-top: 10px;
+	padding-top: 40px;
 }
 
 p {
@@ -33,7 +35,7 @@ p {
 	color: black;
 	width: 800px;
 	margin: auto;
-	text-align: center;
+	text-align: justify;
 }
 
 a {
