@@ -8,12 +8,12 @@ body {
 	width: 1000px;
 	margin: auto;
 	margin-top: 150px;
-	background-color: black;
+	background-color: rgb(158, 158, 158);
 	padding: 40px;
 }
 
 h1 {
-	color: ghostwhite;
+	color: black;
 	font-size: 3em;
 	text-transform: uppercase;
 	padding: 1em;
@@ -21,12 +21,12 @@ h1 {
 
 h2 {
 	font-size: 2em;
-	color: ghostwhite;
+	color: black;
 }
 
 p {
 	font-family: courier;
-	color: darkgrey;
+	color: black;
 }
 
 a {
@@ -53,7 +53,8 @@ img {
 }
 
 .portrait-caption {
-	color: darkgrey;
+	color: black;
+	font-family: courier;
 	margin-bottom: 50px;
 }
 
@@ -73,7 +74,8 @@ img {
 	display: block;
 	margin: auto;
 	cursor: pointer;
-	width: 300px;
+	height: 300px;
+	width: auto;
 }
 
 .caption-stamp {
