@@ -172,3 +172,59 @@ body.night .portrait-caption {
 body.night a {
 	color: #7aaddf;
 }
+
+@media (max-width: 768px) {
+	body {
+		overflow-x: hidden;
+	}
+
+	#conteneur {
+		width: 100%;
+		margin-top: 0;
+		padding: 20px;
+		box-sizing: border-box;
+	}
+
+	h1 {
+		font-size: 1.8em;
+		padding: 0.5em;
+	}
+
+	h2 {
+		font-size: 1.4em;
+		width: 100%;
+		padding-top: 20px;
+	}
+
+	p {
+		width: 100%;
+	}
+
+	.portrait-section {
+		width: 100%;
+	}
+
+	.portrait {
+		width: 100%;
+	}
+
+	.image-wide {
+		width: 100%;
+	}
+
+	.caption-wide {
+		width: 100%;
+	}
+
+	.stamp {
+		height: 180px;
+	}
+
+	.caption-stamp {
+		width: 100%;
+	}
+
+	img {
+		max-width: 100%;
+	}
+}
