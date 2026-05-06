@@ -30,6 +30,8 @@ h2 {
 p {
 	font-family: courier;
 	color: black;
+	width: 800px;
+	margin: auto;
 }
 
 a {
@@ -80,6 +82,6 @@ img {
 }
 
 .caption-stamp {
-	width: 300px;
+	width: 800px;
 	margin: auto;
 }
