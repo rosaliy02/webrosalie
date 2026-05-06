@@ -25,6 +25,7 @@ h2 {
 	color: black;
 	width: 800px;
 	margin: auto;
+	padding-top: 5px;
 }
 
 p {
@@ -36,7 +37,7 @@ p {
 }
 
 a {
-	color: beige;
+	color: rgb(39, 65, 106);
 }
 
 img {
