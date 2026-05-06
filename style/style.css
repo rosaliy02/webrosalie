@@ -1,8 +1,8 @@
 
 @font-face {
-	font-family: 'TerminalGrotesque';
-	src: url('../import/terminal-grotesque-webfont.woff2') format('woff2'),
-	     url('../import/terminal-grotesque-webfont.woff') format('woff');
+	font-family: 'Sligoil-MicroMedium';
+	src: url('../import/Sligoil-MicroMedium.woff2') format('woff2'),
+	     url('../import/Sligoil-MicroMedium.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -188,7 +188,7 @@ body.night a {
 
 	#conteneur {
 		width: 100%;
-		margin-top: 100;
+		margin-top: 100px;
 		padding: 20px;
 		box-sizing: border-box;
 	}
