@@ -44,7 +44,7 @@ h1 {
 	padding: 1em;
 	text-align: center;
 	padding-top: 0px;
-	font-family: 'TerminalGrotesque', Arial, sans-serif;
+	font-family: 'TerminalGrotesque';
 }
 
 h2 {
@@ -53,11 +53,11 @@ h2 {
 	width: 800px;
 	margin: auto;
 	padding-top: 40px;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'TerminalGrotesque';
 }
 
 p {
-	font-family: courier;
+	font-family: Arial, sans-serif;
 	color: black;
 	width: 800px;
 	margin: auto;
@@ -91,7 +91,7 @@ img {
 
 .portrait-caption {
 	color: black;
-	font-family: courier;
+	font-family: Arial, sans-serif;
 }
 
 .image-wide {
@@ -188,7 +188,7 @@ body.night a {
 
 	#conteneur {
 		width: 100%;
-		margin-top: 0;
+		margin-top: 100;
 		padding: 20px;
 		box-sizing: border-box;
 	}
