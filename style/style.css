@@ -40,15 +40,13 @@ img {
 }
 
 .portrait-section {
-	display: flex;
-	align-items: flex-end;
-	gap: 20px;
 	width: 800px;
 	margin: auto;
 }
 
 .portrait {
-	width: 300px;
+	display: block;
+	width: 800px;
 }
 
 .portrait:hover {
@@ -58,7 +56,6 @@ img {
 .portrait-caption {
 	color: black;
 	font-family: courier;
-	margin-bottom: 50px;
 }
 
 .image-wide {
