@@ -17,6 +17,7 @@ h1 {
 	font-size: 3em;
 	text-transform: uppercase;
 	padding: 1em;
+	text-align: center;
 }
 
 h2 {
@@ -74,8 +75,7 @@ img {
 	display: block;
 	margin: auto;
 	cursor: pointer;
-	height: 300px;
-	width: auto;
+	width: 300px;
 }
 
 .caption-stamp {
